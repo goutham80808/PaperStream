@@ -21,6 +21,7 @@ function App() {
         </div>
       ) : (
         <>
+          
           <main className="flex-1 w-full min-h-screen overflow-hidden">
             <InfiniteScrollPapers />
           </main>
